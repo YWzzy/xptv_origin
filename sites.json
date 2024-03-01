@@ -1,3 +1,114 @@
 {
-  "zzy": "11"
+  "sites": [
+    {
+      "key": "南瓜",
+      "name": "南瓜",
+      "type": 3,
+      "api": "csp_NanGua",
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
+      "key": "csp_WoGG",
+      "name": "玩偶哥哥(饭太硬) 点播",
+      "type": 3,
+      "api": "csp_WoGG",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": "http://127.0.0.1:9978/file/tvfan/token.json+4k|auto|fhd$$$https://www.wogg.link/$$$弹"
+    },
+    {
+      "key": "一起看 ",
+      "name": "一起看",
+      "type": 3,
+      "api": "csp_YQKan",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
+      "key": "csp_Jiohub",
+      "name": "🔵JOJO",
+      "type": 3,
+      "api": "csp_Jiohub",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 1
+    },
+    {
+      "key": "Gitcafe",
+      "name": "🔵小纸条",
+      "type": 3,
+      "api": "csp_Gitcafe",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://ju990c.i996.me/TS1/token.json"
+    },
+    {
+      "key": "玩偶哥",
+      "name": "🔵玩偶哥哥",
+      "type": 3,
+      "api": "csp_WoGG",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://api.wogg.xyz/$$$关"
+    },
+    {
+      "key": "腐宅",
+      "name": "腐宅",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 0,
+      "ext": "http://app.zhaifutvapp.com/ruifenglb_api.php/v1.vod"
+    },
+    {
+      "key": "PanSou",
+      "name": "盘搜┃搜索",
+      "type": 3,
+      "api": "csp_PanSou",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"
+    },
+    {
+      "key": "YiSo",
+      "name": "易搜┃搜索",
+      "type": 3,
+      "api": "csp_YiSo",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"
+    },
+    {
+      "key": "UpYun",
+      "name": "Up搜┃搜索",
+      "type": 3,
+      "api": "csp_UpYun",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"
+    },
+    {
+      "key": "PanSearch",
+      "name": "盘Se┃搜索",
+      "type": 3,
+      "api": "csp_PanSearch",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"
+    }
+  ]
 }
