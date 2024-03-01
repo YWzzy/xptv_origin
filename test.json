@@ -2,7 +2,7 @@
   "sites": [
     {
       "key": "PanSou",
-      "name": "盘搜┃搜索",
+      "name": "🔵盘搜",
       "type": 3,
       "api": "csp_PanSou",
       "searchable": 1,
@@ -12,7 +12,7 @@
     },
     {
       "key": "YiSo",
-      "name": "易搜┃搜索",
+      "name": "🔵易搜",
       "type": 3,
       "api": "csp_YiSo",
       "searchable": 1,
@@ -22,7 +22,7 @@
     },
     {
       "key": "UpYun",
-      "name": "Up搜┃搜索",
+      "name": "🔵Up搜",
       "type": 3,
       "api": "csp_UpYun",
       "searchable": 1,
@@ -32,7 +32,7 @@
     },
     {
       "key": "PanSearch",
-      "name": "盘Se┃搜索",
+      "name": "🔵盘Se",
       "type": 3,
       "api": "csp_PanSearch",
       "searchable": 1,
