@@ -1,6 +1,16 @@
 {
   "sites": [
     {
+    "key": "csp_WoGG",
+    "name": "🔵玩偶哥哥-test",
+    "type": 3,
+    "api": "csp_WoGG",
+    "searchable": 1,
+    "quickSearch": 1,
+    "changeable": 0,
+    "ext": "http://127.0.0.1:9978/file/tvfan/token.json+4k|auto|fhd$$$https://www.wogg.link/$$$弹"
+    },
+    {
       "key": "PanSou",
       "name": "🔵盘搜",
       "type": 3,
